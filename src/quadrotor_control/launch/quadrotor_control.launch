@@ -1,0 +1,3 @@
+<launch>
+    <node name="quadrotor_control" pkg="quadrotor_control" type="quadrotor_control_node"/>
+</launch>
